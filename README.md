@@ -64,6 +64,3 @@ Appointments(AppointmentID, PatientName, PatientEmail, DoctorName, AppointmentDa
 **Sahil B**
 
 ---
-
-This README is intentionally simple for hosting/demo purposes.  
-If you want a **shorter**, **one-line**, or **more professional** version — tell me!
